@@ -1,4 +1,4 @@
-#Monokai color scheme for IDLE
+# Monokai color scheme for IDLE
 
 
 Monokai color scheme for IDLE (Python shell)
